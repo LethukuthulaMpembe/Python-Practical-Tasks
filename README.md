@@ -8,7 +8,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 1: Introduction to Python
 
-### What you'll learn:
+### What is covered:
 
 * Explain what Python is and describe three real-world applications of the language.
 * Set up a working Python development environment on your own device.
@@ -20,7 +20,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 2: Manipulating Strings
 
-### What you'll learn:
+### What is covered:
 
 * Apply at least seven string methods including `upper()`, `lower()`, `title()`, `strip()`, `replace()`, `find()`, and `split()`.
 * Use `len()` to count characters in a string.
@@ -32,7 +32,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 3: Manipulating Numbers
 
-### What you'll learn:
+### What is covered:
 
 * Perform arithmetic using Python's seven operators:
 
@@ -54,7 +54,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 4: Storage and Access
 
-### What you'll learn:
+### What is covered:
 
 * Create and manipulate lists using indexing, `append()`, `remove()`, `insert()`, and slicing.
 * Create and use dictionaries with key-value pairs using `.get()`, `.keys()`, `.values()`, and `.items()`.
@@ -66,7 +66,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 5: Selection of Tasks
 
-### What you'll learn:
+### What is covered:
 
 * Write `if`, `elif`, and `else` statements to control program flow based on conditions.
 * Use comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`) correctly in conditions.
@@ -78,7 +78,7 @@ This repository follows the **Python Programming** course offered by **FNB App A
 
 ## Unit 6: Repeating Tasks
 
-### What you'll learn:
+### What is covered:
 
 * Write `for` loops to iterate over lists, dictionaries, strings, and `range()`.
 * Write `while` loops to repeat code until a condition becomes `False`.
