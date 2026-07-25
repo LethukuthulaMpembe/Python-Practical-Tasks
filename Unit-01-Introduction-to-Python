@@ -1,0 +1,52 @@
+# Unit 1: Introduction to Python
+
+## Overview
+
+In this unit, I learned the fundamentals of Python programming through the **FNB App Academy Python Programming** course. I explored the core concepts of the language, set up my development environment, and wrote my first Python programs using variables, data types, user input, and output.
+
+---
+
+## What I Learned
+
+During this unit, I learned how to:
+
+* Explain what Python is and identify its real-world applications.
+* Set up a Python development environment.
+* Write and execute Python scripts using `print()` and `input()`.
+* Declare and use variables with the following data types:
+
+  * `str`
+  * `int`
+  * `float`
+  * `bool`
+* Inspect data types using the `type()` function.
+
+---
+
+## Topics Covered
+
+* Introduction to Python
+* Python Installation and Setup
+* Writing and Running Python Programs
+* Variables
+* Data Types
+* User Input
+* Console Output
+* Type Conversion
+* The `type()` Function
+
+---
+
+## Skills Acquired
+
+After completing this unit, I can:
+
+* Build simple interactive Python programs.
+* Accept and process user input.
+* Work with different data types.
+* Perform basic calculations.
+* Format output using f-strings.
+* Inspect and convert data types where required.
+
+---
+
